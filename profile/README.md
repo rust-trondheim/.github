@@ -15,3 +15,5 @@ Our Meetup page is at https://www.meetup.com/rust-trondheim/
 See our [Meetup Planning](https://github.com/orgs/rust-trondheim/projects/1/views/1)-project to see suggestions and Meetups under planning.
 
 You can suggest events by adding an issue to our [.github-repository issue tracker](https://github.com/rust-trondheim/.github/issues).
+
+If you want to chat you can also join us at our Discord: https://discord.gg/G7Wg4spQ8s
