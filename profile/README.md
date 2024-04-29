@@ -20,8 +20,8 @@ If you want to chat you can also join us at our Discord: https://discord.gg/G7Wg
 
 ## Organizers:
 
-- @cbrevik
-- @eirikblekesaune
-- @AndersNS
+- [@cbrevik](https://github.com/cbrevik)
+- [@eirikblekesaune](https://github.com/eirikblekesaune)
+- [@AndersNS](https://github.com/AndersNS)
 
 Organizer meeting notes can be found in the [organizers/meetings](/organizers/meetings) directory.
