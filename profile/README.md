@@ -17,3 +17,11 @@ See our [Meetup Planning](https://github.com/orgs/rust-trondheim/projects/1/view
 You can suggest events by adding an issue to our [.github-repository issue tracker](https://github.com/rust-trondheim/.github/issues).
 
 If you want to chat you can also join us at our Discord: https://discord.gg/G7Wg4spQ8s
+
+## Organizers:
+
+- @cbrevik
+- @eirikblekesaune
+- @AndersNS
+
+Organizer meeting notes can be found in the [organizers/meetings](/organizers/meetings) directory.
