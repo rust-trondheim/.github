@@ -25,5 +25,6 @@ Other links:
 - [@eirikblekesaune](https://github.com/eirikblekesaune)
 - [@AndersNS](https://github.com/AndersNS)
 - [@pox-here](https://github.com/pox-here)
+- [@rosvik](https://github.com/rosvik)
 
 Organizer meeting notes can be found in the [organizers/meetings](/organizers/meetings) directory.
